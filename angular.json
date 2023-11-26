@@ -82,13 +82,13 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-              "node_modules/chart.js/dist/Chart.min.js",
-              "node_modules/simple-datatables/dist/umd/simple-datatables.min.js",
-              "src/js/scripts.js",
-              "src/assets/demo/chart-area-demo.js",
-              "src/assets/demo/chart-bar-demo.js",
-              "src/js/datatables-simple-demo.js"
+              "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "./node_modules/chart.js/dist/Chart.min.js",
+              "./node_modules/simple-datatables/dist/umd/simple-datatables.min.js",
+              "./src/js/scripts.js",
+              "./src/scripts/chart-area-demo.js",
+              "./src/scripts/chart-bar-demo.js",
+              "./node_modules/simple-datatables/dist/umd/simple-datatables.js"
             ]
           }
         }
