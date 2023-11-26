@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
 
 @Component({
   selector: 'app-nav-component',
